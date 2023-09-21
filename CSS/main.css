@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(232, 231, 231);
+}
+.header-content{
+    text-align: center;
+    padding: 50px;
+}
+.header-content .head{
+    font-weight: 600;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.header-content span{
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+}
+.section{
+    margin: 20px 80px 20px 80px;
+    display: flex;
+}
+.div1{
+    background-color: white;
+    margin-bottom: 40px;
+    box-shadow: 3px 5px 10px 5px rgb(168, 168, 168);
+}
+.img{
+    width: 100%;
+}
+.head1{
+    margin: 15px ;
+}
+.title-heading{
+    /* padding: 15px ; */
+    margin-bottom: 15px;
+    font-weight: 500;
+}
+.title{
+    /* padding: 15px; */
+    margin-bottom: 30px;
+}
+.title span{
+    color: rgb(146, 145, 145);
+}
+.div-btn{
+    margin: 0 15px 15px 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    padding: 15px;
+    background-color: white;
+    border: 1px solid rgb(187, 187, 187);
+    margin-bottom: 10px;
+}
+.btn:hover{
+    background-color: rgb(187, 187, 187);
+}
+.para{
+    margin: 20px;
+    font-weight: 500;
+}
+.para span{
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+}
+.div2 span{
+    border-radius: 20px;
+}
+.head2{
+    margin: 15px ;
+    padding-bottom: 10px;
+}
+.section2{
+    margin-left: 40px;
+}
+.section2-div1{
+    background-color: white;
+    margin-bottom: 40px;
+    box-shadow: 3px 5px 10px 5px rgb(168, 168, 168);
+}
+.title-h{
+    padding: 20px 10px;
+    /* margin-bottom: 20px; */
+    font-weight: 300;
+    background-color:rgb(232, 231, 231) ;
+}
+.section2-div2-img{
+    width: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    float: left;
+}
+.div-p-h{
+    border-bottom: 1px solid rgb(232, 231, 231);
+    padding-bottom: 20px;
+}
+.head5{
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.para5{
+    font-weight: 300;
+}
+.divv{
+    padding-top: 20px;
+}
+.divv:hover{
+    background-color:  rgb(172, 172, 172);;
+}
+.divv-span{
+    padding: 15px 10px;
+}
+.span1{
+    background-color: black;
+    color: white;
+    padding: 3px 6px;
+}
+.div-sp1{
+    margin-bottom: 20px;
+}
+.span2{
+    background-color: rgb(232, 231, 231);
+    padding: 2px;
+    font-size: 15px;
+}
+.foot{
+    height: 20vh;
+    background-color:rgb(88, 87, 87);
+    padding: 30px;
+}
+.btn-div{
+    padding-bottom: 20px;
+}
+.btn0{
+    padding: 15px 30px;
+}
+.btn1{
+    background-color: rgba(0, 0, 0, 0.2);
+    color: rgba(255, 255, 255, 0.53);
+    border: none;
+}
+.btn1:hover{
+    background-color:rgb(157, 157, 157) ;
+    color: rgba(0, 0, 0, 0.532);
+}
+.btn2{
+    background-color: black;
+    color: white;
+    border: none;
+}
+.btn2:hover{
+    background-color: rgb(232, 231, 231) ;
+    color: black;
+}
+.divp span{
+    background-color: rgba(0, 0, 0, 0.859);
+    color: rgba(255, 255, 255, 0.819);
+    padding: 5px 10px;
+}
